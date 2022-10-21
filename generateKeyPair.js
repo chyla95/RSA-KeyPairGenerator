@@ -1,6 +1,6 @@
 /**
  * This module will generate a public and private keypair and save to current directory
- * Use the following command, to run the script - node .\generateKP.js
+ * Use the following command, to run the script - node .\generateKeyPair.js
  */
  const crypto = require('crypto');
  const fs = require('fs');
